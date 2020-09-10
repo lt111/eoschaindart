@@ -1,7 +1,6 @@
 name: eoschaindart
 description: EOSIO-based blockchain RPC API client in Dart language.
 version: 0.0.1
-author:
 homepage: https://github.com/lt111/eoschaindart
 
 environment:
